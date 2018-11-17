@@ -127,6 +127,12 @@ AR로 봤을때 더 멀리서 보고싶거나 옆을 보고싶은 경우 사용�
 <br>
 
 ### ['16 10/06 - 12/08] NAVER의 검색량을 활용한 'NAVER 인기 검색어 업-다운' 웹 게임
+![](https://github.com/Curookie/Portfolio/blob/master/Dev/NaverUpDown/Images/Promo01.png?raw=true){: width="50px"} 
+![](https://github.com/Curookie/Portfolio/blob/master/Dev/NaverUpDown/Images/Promo02.png?raw=true){: width="50px"} 
+![](https://github.com/Curookie/Portfolio/blob/master/Dev/NaverUpDown/Images/Promo03.png?raw=true){: width="50px"} 
+![](https://github.com/Curookie/Portfolio/blob/master/Dev/NaverUpDown/Images/Promo04.png?raw=true){: width="50px"} 
+![](https://github.com/Curookie/Portfolio/blob/master/Dev/NaverUpDown/Images/Promo05.png?raw=true){: width="50px"} 
+![](https://github.com/Curookie/Portfolio/blob/master/Dev/NaverUpDown/Images/Promo06.png?raw=true){: width="50px"}  
 
 내용 - Facile는 불어로 '심플한' 이라는 의미로 Facile 팀 프로젝트라는 작명을 했다. 나와 학과에 아는 형이 함께 프로젝트를 진행했는데<br>
 형이 mySQL(DB)구축을 맡았고 이 프로젝트에선 내가 많은 부분을 제작했다.<br>
