@@ -33,6 +33,7 @@ UI/ 기획 - https://ovenapp.io/view/x5CfOnIqfpUaManBlYP5yqod7pjK9EDl/NHCW6
 <br>
 
 ### ['17 11/25 3시간] K-Hackathon(해커톤) 워크숍 '3시간 안에 게임 개발'
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/FiveDollars/Images/K-Hackathon.jpg?raw=true"></img>
 
 내용 - 이건 정말 별거 없지만 포토폴리오에 쓰고 싶은 이유는 단, 3시간 안에 모르는 팀원들과<br>
 5명이 회의 후 게임 개발, 팀워크를 이뤄서 발표 후 평가에서 1등까지 했기 때문이다.<br>
@@ -97,6 +98,13 @@ GIT - https://github.com/Curookie/SmartBluetoothSpeakerProject
 <br>
 
 ### ['17 4/28 - 4/30] 스타트업 위크앤드 '피클' 안드로이드 앱
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/Piccle/Images/pt01.jpg?raw=true"></img>
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/Piccle/Images/pt02.jpg?raw=true"></img>
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/Piccle/Images/pt03.jpg?raw=true"></img>
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/Piccle/Images/pt04.jpg?raw=true"></img>
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/Piccle/Images/pt05.jpg?raw=true"></img>
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/Piccle/Images/pt06.jpg?raw=true"></img>
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/Piccle/Images/pt01.jpg?raw=true"></img>
 
 내용 - 개발자, 기획자, 디자이너가 참여하는 2박 3일 해커톤에서 개발자로 참여해<br>
 여행객들이 현지인에게 사진촬영을 요청해 현지인이 사진을 찍어주고 돈을 받는 O2O 서비스 '피클'이라는 앱을<br>
