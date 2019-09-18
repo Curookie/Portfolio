@@ -18,6 +18,14 @@
 
 ### ['18 12/13 ~ ing ] '침대 밖은 위험해' 슈팅/캐쥬얼/퍼즐 모바일 게임 제작
 
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/FG01Throwing/Images/img01.jpg?raw=true"></img>
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/FG01Throwing/Images/img02.jpg?raw=true"></img>
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/FG01Throwing/Images/img03.jpg?raw=true"></img>
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/FG01Throwing/Images/img04.jpg?raw=true"></img>
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/FG01Throwing/Images/img05.jpg?raw=true"></img>
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/FG01Throwing/Images/img06.jpg?raw=true"></img>
+<img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/FG01Throwing/Images/img07.jpg?raw=true"></img>
+
 내용 - 
 
 주 사용기술 - Unity3D, C#
