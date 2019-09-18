@@ -36,7 +36,7 @@
 
 내용 - 
 
-주 사용기술 - Spring Boot, Java, Unity3D, C#
+주 사용기술 - Spring Boot, Jenkins, Vue.js, UML, Java
 
 <br>
 
