@@ -55,7 +55,6 @@
 <img width="10%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img11.jpg?raw=true"></img>
 <img width="10%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img12.jpg?raw=true"></img>
 <img width="10%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img13.jpg?raw=true"></img>
-<img width="10%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img14.jpg?raw=true"></img>
 <img width="10%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img15.jpg?raw=true"></img>
 <img width="10%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img16.jpg?raw=true"></img>
 <img width="10%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img17.jpg?raw=true"></img>
