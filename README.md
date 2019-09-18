@@ -42,6 +42,26 @@
 
 ### ['18 1/10 - 2/12] '성경 만들기' 모바일 게임 개발 프로젝트 (자체 프로젝트)
 
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img01.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img02.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img03.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img04.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img05.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img06.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img07.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img08.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img09.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img10.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img11.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img12.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img13.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img14.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img15.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img16.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img17.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img18.jpg?raw=true"></img>
+<img width="25%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/BibleCollect/Images/img19.jpg?raw=true"></img>
+
 내용 - 여러 장르의 다양한 게임들이 있다. 하지만 종교와 관련된 게임은 거의 찾아 볼 수 없다. <br>
 기독교인인 나는 기독교인들을 타겟으로한 게임을 만들면 어떨까? 라는 생각을 갖고, 한 달간 자체 프로젝트에 들어갔다.<br>
 원래는 디자이너와 협업하고자 했으나, 도트 디자인을 하는 디자이너분을 찾기 어려워 혼자 진행하게 됬고,<br>
