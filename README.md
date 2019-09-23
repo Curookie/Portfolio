@@ -10,12 +10,14 @@
 
 ### 스터디 기록
 
-알고리즘       https://gist.github.com/Curookie/5408324d876a51384564fac1f186938e <br>
-Unity3D       https://gist.github.com/Curookie/5de19e581eb54cff7d7b643408ba930c	<br>
-디자인패턴     https://gist.github.com/Curookie/3cf492219d58db4a10b1dde239cbe3fd <br>
-OpenCV        https://gist.github.com/Curookie/a2f069522c90ab9947d687778cfa7536	<br>
-C#            https://gist.github.com/Curookie/ba8a4a0343537108393d8c87082fe83a	<br>
-C++           https://gist.github.com/Curookie/bb3019a8134f09adeff77a6015da0841	<br>
+| 공부 내용   | 링크       |
+| :---------- | :--------- | 
+| 알고리즘    | https://gist.github.com/Curookie/5408324d876a51384564fac1f186938e |
+| Unity3D    | https://gist.github.com/Curookie/5de19e581eb54cff7d7b643408ba930c |
+| 디자인패턴    | https://gist.github.com/Curookie/3cf492219d58db4a10b1dde239cbe3fd |
+| OpenCV    | https://gist.github.com/Curookie/a2f069522c90ab9947d687778cfa7536 |
+| C#    | https://gist.github.com/Curookie/ba8a4a0343537108393d8c87082fe83a |
+| C++    | https://gist.github.com/Curookie/bb3019a8134f09adeff77a6015da0841 |
 
 <br>
 
