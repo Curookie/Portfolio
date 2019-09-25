@@ -39,7 +39,7 @@
 <img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/FG01Throwing/Images/img06.jpg?raw=true"></img>
 <img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/FG01Throwing/Images/img07.jpg?raw=true"></img>
 
-내용 - 
+내용 - 놀고 있기 뭐해서 친한 디자이너 친구랑 둘이서 만들어보고 싶은 게임을 기획하고 그대로 실행에 옮긴 게임. 둘 다 양산형게임 보단 참신하고 게임에 메시지를 전하는 것을 좋아해서 기획하는데 참 어려운 점이 많았지만 꾸준히 고민하고 수정하면서 작업을 진행하고 있다. 이 프로젝트를 하면서 매 스테이지마다 다른 게임을 제작해야하는 상황이 펼쳐져서~~(기획의 중요성)~~ 객체지향 프로그래밍에 많이 익숙해졌다. 또한 각 기능들을 모듈화하려고 애썼다. 각 물체가 반응하는 이벤트별로 스크립트를 나눴고, 카메라 애니메이션 스크립트, 팝업, 사운드, 로딩 등의 기능들을 캡슐화했다. 현재 20스테이지 중 14 스테이지까지 완료한 상황. 나름 12월 출시를 목표로 하고있다.  
 
 주 사용기술 - Unity3D, C#
 
