@@ -1,14 +1,48 @@
-# 포토폴리오 [Portfolio]
+# :paw_prints: 포토폴리오 [Portfolio] :palm_tree: 
+> 사람은 완벽할 수 없다.  
+> 누구나 모진부분을 가지고 모진부분을 깎아내려해도 그로인해 다른 모진부분이 생길 수도 있는게 사람이다.  
+> 깎아가는 과정을 이해할 줄 아는 사람은 부족하고 잘하는 부분에서 시너지를 내면서 살아가는거지  
+> INTP  
+
+[![Version](https://img.shields.io/badge/Version-v1.1.2-brightgreen?style=for-the-badge&logo=apache-maven)]() 
+[![Author](https://img.shields.io/badge/Author-Curookie-yellow?style=for-the-badge&logo=github-sponsors)]() 
+[![Twitch](https://img.shields.io/badge/Mail-games@kakao.com-red?style=for-the-badge&logo=Gmail)](matilto:games@kakao.com)
 
 <br>
+
+![Personality](Images/0VNoFnKiOww-unsplash.jpg)  
 
 <br>
 
 ## 개발 [Development]
+> 제발 이번생에 잡케가 되지 말아야지 했는데.. 결국 잡케가 되어버린 1人  
+> 아직까지 제 전문 분야는 [게임 클라이언트 개발] 입니다.  
 
 <br>
 
-> 스터디 기록
+> 보유 기술  
+
+![c#](https://img.shields.io/badge/-c%23-239120?logo=csharp) 
+![c++](https://img.shields.io/badge/-cpp-00599C?logo=cplusplus) 
+![Unity](https://img.shields.io/badge/Unity--FFFFFF?logo=unity) 
+![UE4](https://img.shields.io/badge/-UE4-0E1128?logo=unrealengine) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws) 
+![Android](https://img.shields.io/badge/Android--3DDC84?logo=android) 
+![WebGL](https://img.shields.io/badge/-WebGL-990000?logo=webgl) 
+![js](https://img.shields.io/badge/js--F7DF1E?logo=javascript) 
+![Node.js](https://img.shields.io/badge/Node.js--339933?logo=node.js) 
+![React](https://img.shields.io/badge/React--61DAFB?logo=react) 
+![Python](https://img.shields.io/badge/Python--3776AB?logo=python) 
+![MongoDB](https://img.shields.io/badge/MongoDB--47A248?logo=mongodb) 
+![MySQL](https://img.shields.io/badge/MySQL--4479A1?logo=mysql) 
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle) 
+![Docker](https://img.shields.io/badge/Docker--2496ED?logo=docker) 
+![DiscordBot](https://img.shields.io/badge/DiscordBot--5865F2?logo=discord) 
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity) 
+
+<br>
+
+> 스터디 기록  
 
 | 스터디 내용   | 링크       |
 | :---------- | :--------- | 
@@ -23,6 +57,12 @@
 
 <br>
 
+> 프로젝트 기록  
+### ['21 10/31 ~ ing ] CrayonBoys NFT 프로젝트 개발
+
+내용 - 
+
+주 사용기술 - 
 
 ### ['19 09/16 ~ ing ] 언리얼 엔진을 사용한 온라인(Steam & LAN) FPS 게임 'Head Hunter' 제작
 
@@ -117,7 +157,7 @@ UI/ 기획 - https://ovenapp.io/view/x5CfOnIqfpUaManBlYP5yqod7pjK9EDl/NHCW6
 
 <br>
 
-### ['17 04/07 - 06/26] Node.js를 사용해 개발한 직관적인 '인하대 후문 맛집' 앱
+### ['17 04/07 - '17 06/26] Node.js를 사용해 개발한 직관적인 '인하대 후문 맛집' 앱
 
 내용 - Node.js가 그렇게 핫하다길래.. Node.js를 사용해서 웹을 구현해봤다.<br>
 Naver 검색, 지도 API를 사용했고, 인하대 후문을 기점으로 음식점을 검색해<br>
@@ -183,7 +223,7 @@ GIT - https://github.com/Curookie/startupwe-piccle
 
 <br>
 
-### ['16 09/21 - 12/14] MR(AR/VR) 기술을 사용한 건축 모델링 뷰 앱 개발
+### ['16 09/21 - '16 12/14] MR(AR/VR) 기술을 사용한 건축 모델링 뷰 앱 개발
 
 내용 - Vuforia API는 AR/VR개발에 정말 유용한 툴이였다. ~결국 유니티에서도 Vuforia를 내장시켰다.~<br>
 AR/VR기술을 접목시키기 좋은 컨텐츠에 대해 고민하다가 학교에서 하는 건축박람회를 보고 아이디어가 떠올랐다.<br>
@@ -201,7 +241,7 @@ AR로 봤을때 더 멀리서 보고싶거나 옆을 보고싶은 경우 사용�
 
 <br>
 
-### ['16 10/06 - 12/08] NAVER의 검색량을 활용한 'NAVER 인기 검색어 업-다운' 웹 게임
+### ['16 10/06 - '16 12/08] NAVER의 검색량을 활용한 'NAVER 인기 검색어 업-다운' 웹 게임
 <img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/NaverUpDown/Images/Promo01.png?raw=true"></img>
 <img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/NaverUpDown/Images/Promo02.png?raw=true"></img>
 <img width="33%" src="https://github.com/Curookie/Portfolio/blob/master/Dev/NaverUpDown/Images/Promo03.png?raw=true"></img>
@@ -228,6 +268,17 @@ sass를 사용해서 애니메이션 부분을 쉽게 구현했다. js처리를 
 WebSite - http://13.125.34.5/FacileGame/Main.html
 
 <br>
+
+<br>
+
+
+## 재태크 [Finance]
+> 2020년 이후 주식을 접하면서, 재태크에 관심이 생김. 1년간 주식시장에 대해 공부를 했었다.  
+> 코인에는 관심이 크게 없었지만 NFT에 관심이 생겨 개발 블록체인 쪽으로도 발을 담그게됬다.  
+
+| 스터디 내용   | 링크       |
+| :---------- | :--------- | 
+| 주식    | https://gist.github.com/Curookie/acad8f83e8c456986808c9eb08c9036d |
 
 <br>
 
