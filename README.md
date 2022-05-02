@@ -1,10 +1,10 @@
 # :paw_prints: 포토폴리오 [Portfolio] :palm_tree: 
 > 사람은 완벽할 수 없다.  
 > 누구나 모진부분을 가지고 모진부분을 깎아내려해도 그로인해 다른 모진부분이 생길 수도 있는게 사람이다.  
-> 깎아가는 과정을 이해할 줄 아는 부족하고 잘하는 부분에서 시너지를 내면서 살아가는거지  
+> 깎아가는 과정을 이해할 줄 아는 사람들은 부족하고 잘하는 부분에서 서로 시너지를 내면서 살아가는거지  
 > INTP  
 
-[![Version](https://img.shields.io/badge/Version-v1.1.3-brightgreen?style=for-the-badge&logo=apache-maven)]() 
+[![Version](https://img.shields.io/badge/Version-v1.1.4-brightgreen?style=for-the-badge&logo=apache-maven)]() 
 [![Author](https://img.shields.io/badge/Author-Curookie-yellow?style=for-the-badge&logo=github-sponsors)]() 
 [![Twitch](https://img.shields.io/badge/Mail-games@kakao.com-red?style=for-the-badge&logo=Gmail)](mailto:games@kakao.com)
 
